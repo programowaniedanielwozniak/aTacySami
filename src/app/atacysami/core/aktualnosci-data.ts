@@ -77,8 +77,8 @@ export const AKTUALNOSCI: Aktualnosc[] = [
       'Zadanie finansowane jest przez „A Tacy Sami". Dzięki otrzymanemu wsparciu możliwa jest kontynuacja działań służących aktywizacji, rehabilitacji i integracji osób z niepełnosprawnościami.'
     ],
     zdjecia: [
-      'assets/images/ATS/aktualnosci/2026-06-08-nordic-walking-01.jpg',
-      'assets/images/ATS/aktualnosci/2026-06-08-nordic-walking-02.jpg'
+      'assets/images/ATS/aktualnosci/2026-06-08-nordic-walking-01.JPG',
+      'assets/images/ATS/aktualnosci/2026-06-08-nordic-walking-02.JPG'
     ],
     link: 'https://www.facebook.com/share/p/1C6VjbkPTd/'
   },
@@ -113,9 +113,11 @@ export const AKTUALNOSCI: Aktualnosc[] = [
       }
     ],
     zdjecia: [
-      'assets/images/ATS/aktualnosci/2026-05-30-xii-rtb-01.jpg',
+      'assets/images/ATS/aktualnosci/2026-05-30-xii-rtb-01.JPG',
       'assets/images/ATS/aktualnosci/2026-05-30-xii-rtb-02.jpg',
-      'assets/images/ATS/aktualnosci/2026-05-30-xii-rtb-03.jpg'
+      'assets/images/ATS/aktualnosci/2026-05-30-xii-rtb-03.jpg',
+      'assets/images/ATS/aktualnosci/2026-05-30-xii-rtb-04.jpeg',
+      'assets/images/ATS/aktualnosci/2026-05-30-xii-rtb-05.jpeg'
 
     ],
     link: 'https://www.facebook.com/share/p/1GTZGBTqQM/'
@@ -133,8 +135,8 @@ export const AKTUALNOSCI: Aktualnosc[] = [
       'Stowarzyszenie sfinansowało nagrody dla uczestników Turnieju.'
     ],
     zdjecia: [
-      'assets/images/ATS/aktualnosci/2026-04-29-badminton-01.jpg',
-      'assets/images/ATS/aktualnosci/2026-04-29-badminton-02.jpg'
+      'assets/images/ATS/aktualnosci/2026-04-29-badminton-01.jpeg',
+      'assets/images/ATS/aktualnosci/2026-04-29-badminton-02.jpeg'
     ],
     link: 'https://www.facebook.com/share/p/1BAGsMqSpu/'
   },
@@ -149,8 +151,8 @@ export const AKTUALNOSCI: Aktualnosc[] = [
       'Sfinansowano warsztaty ogrodnicze, w ramach których dokonano ukwiecenia oraz nasadzeń roślinności wokół Ośrodka Szkolno-Wychowawczego im. Przyjaciół Dzieci w Lubinie. Działania przyczyniły się do zwiększenia świadomości ekologicznej uczniów oraz kształtowania odpowiedzialnych postaw wobec środowiska naturalnego.'
     ],
     zdjecia: [
-      'assets/images/ATS/aktualnosci/2026-04-22-dzien-ziemi-01.jpg',
-      'assets/images/ATS/aktualnosci/2026-04-22-dzien-ziemi-02.jpg'
+      'assets/images/ATS/aktualnosci/2026-04-22-dzien-ziemi-01.JPG',
+      'assets/images/ATS/aktualnosci/2026-04-22-dzien-ziemi-02.JPG'
     ],
     link: 'https://www.facebook.com/share/p/19TLQywZHF/'
   },
@@ -202,9 +204,9 @@ export const AKTUALNOSCI: Aktualnosc[] = [
       }
     ],
     zdjecia: [
-      'assets/images/ATS/aktualnosci/2026-03-27-tenis-stolowy-01.jpg',
-      'assets/images/ATS/aktualnosci/2026-03-27-tenis-stolowy-02.jpg',
-      'assets/images/ATS/aktualnosci/2026-03-27-tenis-stolowy-03.jpg'
+      'assets/images/ATS/aktualnosci/2026-03-27-tenis-stolowy-01.JPG',
+      'assets/images/ATS/aktualnosci/2026-03-27-tenis-stolowy-02.jpeg',
+      'assets/images/ATS/aktualnosci/2026-03-27-tenis-stolowy-03.jpeg'
     ],
     link: 'https://www.facebook.com/share/p/1GnMZckuEv/'
   },
@@ -262,8 +264,8 @@ export const AKTUALNOSCI: Aktualnosc[] = [
       }
     ],
     zdjecia: [
-      'assets/images/ATS/aktualnosci/2025-10-17-podroz-i-zdobywaj-01.jpg',
-      'assets/images/ATS/aktualnosci/2025-10-17-podroz-i-zdobywaj-02.jpg'
+      'assets/images/ATS/aktualnosci/2025-10-17-podroz-i-zdobywaj-01.jpeg',
+      'assets/images/ATS/aktualnosci/2025-10-17-podroz-i-zdobywaj-02.jpeg'
     ],
     link: 'https://www.facebook.com/share/p/14qrXhtQf51/'
   },
@@ -278,10 +280,10 @@ export const AKTUALNOSCI: Aktualnosc[] = [
     ],
 
     zdjecia: [
-      'assets/images/ATS/aktualnosci/2026-09-24-kapiel-w-dzwiekach-01.jpg',
-      'assets/images/ATS/aktualnosci/2026-09-24-kapiel-w-dzwiekach-02.jpg',
-      'assets/images/ATS/aktualnosci/2026-09-24-kapiel-w-dzwiekach-03.jpg',
-      'assets/images/ATS/aktualnosci/2026-09-24-kapiel-w-dzwiekach-04.jpg'
+      'assets/images/ATS/aktualnosci/2026-09-24-kapiel-w-dzwiekach-01.jpeg',
+      'assets/images/ATS/aktualnosci/2026-09-24-kapiel-w-dzwiekach-02.jpeg',
+      'assets/images/ATS/aktualnosci/2026-09-24-kapiel-w-dzwiekach-03.jpeg',
+      'assets/images/ATS/aktualnosci/2026-09-24-kapiel-w-dzwiekach-04.jpeg'
     ],
 
   }
