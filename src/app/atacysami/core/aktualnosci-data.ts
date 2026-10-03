@@ -232,6 +232,7 @@ export const AKTUALNOSCI: Aktualnosc[] = [
         ]
       }
     ],
+
     zdjecia: [
       'assets/images/ATS/aktualnosci/2026-03-19-matematik-01.jpg',
       'assets/images/ATS/aktualnosci/2026-03-19-matematik-02.jpg',
